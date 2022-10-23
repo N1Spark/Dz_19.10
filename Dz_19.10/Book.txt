@@ -1,0 +1,42 @@
+
+1
+Company: Apple
+Name: Maks
+Number: 1095
+Address: NYC
+Type: Employer
+
+2
+Company: Micr
+Name: Paul
+Number: 1587
+Address: London
+Type: Developer
+
+1
+Company: Apple
+Name: Maks
+Number: 1095
+Address: NYC
+Type: Employer
+
+2
+Company: Micr
+Name: Paul
+Number: 1587
+Address: London
+Type: Developer
+
+1
+Company: Apple
+Name: Maks
+Number: 1095
+Address: NYC
+Type: Employer
+
+2
+Company: Micr
+Name: Paul
+Number: 1587
+Address: London
+Type: Developer
